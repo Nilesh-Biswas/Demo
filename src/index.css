@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+/* 1. Import Vercel's Geist Font Family */
+@import url('https://cdn.jsdelivr.net/npm/geist@1.0.0/dist/fonts/geist-sans/style.css');
+@import url('https://cdn.jsdelivr.net/npm/geist@1.0.0/dist/fonts/geist-mono/style.css');
+
+@theme {
+  /* 2. Force Tailwind to use Geist globally */
+  --font-sans: 'Geist', -apple-system, BlinkMacSystemFont, sans-serif;
+  --font-mono: 'Geist Mono', ui-monospace, SFMono-Regular, monospace;
+}
+
+body {
+  background-color: #0b0f19;
+  color: #f8fafc;
+  /* 3. Aggressive anti-aliasing for that crisp editorial feel */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
