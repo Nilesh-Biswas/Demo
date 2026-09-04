@@ -52,5 +52,5 @@ This project uses the modern Vite + Tailwind v4 toolchain, meaning setup is incr
 
 ### 1. Clone the repository
 ```bash
-git clone [https://github.com/your-username/apix-dashboard.git](https://github.com/your-username/apix-dashboard.git)
-cd apix-dashboard
+git clone [https://github.com/Nilesh-Biswas/SIH-Demo-.git](https://github.com/Nilesh-Biswas/SIH-Demo-.git)
+cd 
