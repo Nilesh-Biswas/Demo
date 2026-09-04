@@ -52,5 +52,5 @@ This project uses the modern Vite + Tailwind v4 toolchain, meaning setup is incr
 
 ### 1. Clone the repository
 ```bash
-git clone [https://github.com/Nilesh-Biswas/Demo.git]
-cd 
+git clone [https://github.com/Nilesh-Biswas/Demo.git](https://github.com/Nilesh-Biswas/Demo.git)
+cd Demo
